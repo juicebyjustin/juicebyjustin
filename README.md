@@ -7,14 +7,23 @@
 - ⚡ Fun fact: I enjoy practically any outdoor activities.
 
 ### Experience
-I have experience with various technologies and development (ordered by how knowledgable I am in each area):
+All of my experience is in the corporate enterprise realm. I have experience with various technologies and development (ordered by how knowledgable I am in each area):
 - C#
 - Windows WPF
 - Windows Services
+- SQL
 - .NET Core
 - Windows Forms
 - Angular
 - NodeJS & Express
+
+#### Languages
+- C#
+- C++ (college)
+- Honorable Mentions
+    - SQL
+    - JS
+    - PHP (college)
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
