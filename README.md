@@ -7,13 +7,17 @@
 - ⚡ Fun fact: I enjoy practically any outdoor activities.
 
 ### Experience
-All of my experience is in the corporate enterprise realm. I have experience with various technologies and development (ordered by how knowledgable I am in each area):
+All of my experience is in an enterprise environment. I have experience with various technologies and development listed below ordered by how knowledgable I am in each area.
+
+#### Technologies
+
 - C#
 - Windows WPF
 - Windows Services
 - SQL
 - .NET Core
 - Windows Forms
+- Azure DevOps
 - Angular
 - NodeJS & Express
 
