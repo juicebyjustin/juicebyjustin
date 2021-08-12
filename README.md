@@ -17,7 +17,7 @@ All of my experience is in an enterprise environment. I have experience with var
 - SQL
 - .NET Core
 - Windows Forms
-- Azure DevOps
+- CI/CD Pipelines
 - Angular
 - NodeJS & Express
 
